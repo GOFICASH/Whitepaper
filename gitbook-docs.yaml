@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: GoFi Cash Docs
+  structure:
+    - type: section
+      key: gofi-docs
+      title: GoFi Cash
+      path: docs
+      children:
+        - type: space
+          key: gofi-whitepaper
+          title: Whitepaper
+          path: whitepaper
+          default: true
+          content:
+            directory: ./whitepaper
+            language: en
