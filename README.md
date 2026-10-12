@@ -1,13 +1,7 @@
 ---
-cover: .gitbook/assets/abstract (2).png
-coverY: 0
-coverHeight: 236
+icon: webhook
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
-    mask: none
   title:
     visible: true
   description:

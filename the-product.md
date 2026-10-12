@@ -1,7 +1,5 @@
 ---
-cover: .gitbook/assets/the-product (2).png
-coverY: 0
-coverHeight: 236
+icon: table-cells-header-lock
 ---
 
 # The product

@@ -1,6 +1,5 @@
 ---
-cover: .gitbook/assets/membership-tiers (2).png
-coverY: 0
+icon: users-line
 ---
 
 # Membership tiers

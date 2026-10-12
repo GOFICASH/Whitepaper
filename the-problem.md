@@ -1,7 +1,5 @@
 ---
-cover: .gitbook/assets/the-problem (2).png
-coverY: 0
-coverHeight: 162
+icon: circle-exclamation
 ---
 
 # The problem

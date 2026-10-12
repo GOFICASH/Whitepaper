@@ -1,6 +1,5 @@
 ---
-cover: .gitbook/assets/gofi-token (3).png
-coverY: 0
+icon: coin
 ---
 
 # The GOFI token

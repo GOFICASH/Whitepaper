@@ -1,6 +1,5 @@
 ---
-cover: .gitbook/assets/how-it-works (2).png
-coverY: 0
+icon: car-wrench
 ---
 
 # How it works

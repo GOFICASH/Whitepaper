@@ -1,6 +1,5 @@
 ---
-cover: .gitbook/assets/important-notice (1).png
-coverY: 0
+icon: shield-exclamation
 ---
 
 # Important notice

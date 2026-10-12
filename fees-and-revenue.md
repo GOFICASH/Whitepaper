@@ -1,6 +1,5 @@
 ---
-cover: .gitbook/assets/fees-and-revenue (2).png
-coverY: 0
+icon: sack-dollar
 ---
 
 # Fees and revenue
