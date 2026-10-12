@@ -1,6 +1,5 @@
 # GoFi Cash Whitepaper
 
-*Crypto that works like money · Version 1.0 · October 2026*
 
 ## Abstract
 
