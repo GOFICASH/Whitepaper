@@ -14,5 +14,5 @@ site:
           path: whitepaper
           default: true
           content:
-            directory: ./whitepaper
+            directory: ./
             language: en
