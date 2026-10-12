@@ -1,5 +1,36 @@
-# GoFi Cash Whitepaper
+---
+cover:
+  light: .gitbook/assets/abstract.png
+  dark: .gitbook/assets/abstract.png
+coverY: 0
+coverHeight: 235
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
 
+# Abstract
 
 ## Abstract
 

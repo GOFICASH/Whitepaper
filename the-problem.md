@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/the-problem.png
+coverY: 0
+---
+
 # The problem
 
 Crypto is easy to hold and hard to spend. Around 741 million people own crypto, most of them in Asia, Africa and Latin America. Turning a wallet balance into something useful still runs through a bank, an exchange and an identity check.

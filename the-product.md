@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/the-product.png
+coverY: 0
+---
+
 # The product
 
 GoFi Cash launched in October 2026 as a web application. It offers three products today, all bought through a single wallet checkout and managed from one dashboard.

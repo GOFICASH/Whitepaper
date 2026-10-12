@@ -1,14 +1,19 @@
+---
+cover: .gitbook/assets/gofi-token.png
+coverY: 0
+---
+
 # The GOFI token
 
 GOFI is a membership token: owning it unlocks real services every month. It launches in a later phase; nothing in this section is live yet.
 
-| Parameter | Value |
-| --- | --- |
-| Total supply | 1,000,000,000 GOFI |
-| Time to unlock benefits | 5 days of staking or holding |
-| Revenue to buyback and burn | 25% of monthly platform revenue |
-| Burn target | 450,000,000 GOFI (45% of supply) |
-| Supply after the burn target | 550,000,000 GOFI |
+| Parameter                    | Value                            |
+| ---------------------------- | -------------------------------- |
+| Total supply                 | 1,000,000,000 GOFI               |
+| Time to unlock benefits      | 5 days of staking or holding     |
+| Revenue to buyback and burn  | 25% of monthly platform revenue  |
+| Burn target                  | 450,000,000 GOFI (45% of supply) |
+| Supply after the burn target | 550,000,000 GOFI                 |
 
 ## What GOFI does
 
