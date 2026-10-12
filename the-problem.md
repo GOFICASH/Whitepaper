@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/the-problem (1).png
+cover: .gitbook/assets/the-problem (2).png
 coverY: 0
+coverHeight: 162
 ---
 
 # The problem

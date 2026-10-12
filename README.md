@@ -1,7 +1,7 @@
 ---
-cover: .gitbook/assets/abstract (1).png
+cover: .gitbook/assets/abstract (2).png
 coverY: 0
-coverHeight: 235
+coverHeight: 236
 layout:
   width: default
   cover:

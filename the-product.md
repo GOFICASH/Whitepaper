@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/the-product (1).png
+cover: .gitbook/assets/the-product (2).png
 coverY: 0
+coverHeight: 236
 ---
 
 # The product
