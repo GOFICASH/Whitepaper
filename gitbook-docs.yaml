@@ -1,11 +1,12 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: GoFi Cash Docs
+  title: GOFI CASH
   structure:
     - type: section
       key: gofi-docs
       title: GoFi Cash
       path: docs
+      default: true
       children:
         - type: space
           key: gofi-whitepaper
