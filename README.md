@@ -1,7 +1,5 @@
 ---
-cover:
-  light: .gitbook/assets/abstract.png
-  dark: .gitbook/assets/abstract.png
+cover: .gitbook/assets/abstract (1).png
 coverY: 0
 coverHeight: 235
 layout:
@@ -32,7 +30,7 @@ layout:
 
 # Abstract
 
-## Abstract
+##
 
 GoFi Cash turns the stablecoins in your wallet into things you can use: travel eSIM data, virtual phone numbers and a prepaid card. You connect a wallet, pick what you need and pay. No bank account, no exchange account, and GoFi never holds your crypto.
 

@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/how-it-works.png
+cover: .gitbook/assets/how-it-works (1).png
 coverY: 0
 ---
 

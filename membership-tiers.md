@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/membership-tiers.png
+cover: .gitbook/assets/membership-tiers (1).png
 coverY: 0
 ---
 

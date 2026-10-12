@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/fees-and-revenue.png
+cover: .gitbook/assets/fees-and-revenue (1).png
 coverY: 0
 ---
 

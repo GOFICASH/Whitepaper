@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/gofi-token.png
+cover: .gitbook/assets/gofi-token (1).png
 coverY: 0
 ---
 

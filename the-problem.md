@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/the-problem.png
+cover: .gitbook/assets/the-problem (1).png
 coverY: 0
 ---
 
